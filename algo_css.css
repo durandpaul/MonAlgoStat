@@ -1,0 +1,14 @@
+body{
+	position: absolute;
+}
+
+#title{
+	position: relative;
+	justify-content: center;
+}
+
+.chart-container{
+}
+
+#chart{
+}
