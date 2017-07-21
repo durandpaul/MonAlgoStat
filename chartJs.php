@@ -66,8 +66,6 @@ alert("");
 		return (options);
 	};
 
- 
-
 	<?php
 	// include_once "algo_function.php"
 
